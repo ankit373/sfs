@@ -1,4 +1,4 @@
-# online-student-feedback-system
+# online student feedback system
 Requirements :
 	1.Xampp Server 
 	2.Web Browser 
